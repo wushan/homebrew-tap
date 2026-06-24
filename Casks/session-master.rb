@@ -7,7 +7,7 @@ cask "session-master" do
   desc "Menu-bar console for Claude Code & Codex sessions"
   homepage "https://github.com/wushan/session-master"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "SessionMaster.app"
 
