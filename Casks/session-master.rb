@@ -1,6 +1,6 @@
 cask "session-master" do
-  version "0.3.1"
-  sha256 "e62b1cdfd79116f19014e41a6d8a0fe541f7533fdd89315ca81eb8a311f9c71f"
+  version "0.3.2"
+  sha256 "d10bbf08d2bef1f512f80cdc22c66f1de984860ecd2ac014f96502fd6046a198"
 
   url "https://github.com/wushan/session-master/releases/download/v#{version}/SessionMaster-#{version}.dmg"
   name "SessionMaster"
